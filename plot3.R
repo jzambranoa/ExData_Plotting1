@@ -1,5 +1,3 @@
-setwd("E:/Jaime/Universidad y Cursos/Data Science/04 - Exploratory Data Analysis/Course Project 1")
-
 arch <- "household_power_consumption.txt"
 
 # Load only the data from the dates 2007-02-01 and 2007-02-02.
